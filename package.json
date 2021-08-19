@@ -1,6 +1,6 @@
 {
   "name": "endict",
-  "version": "1.0.0", 
+  "version": "1.0.1",
   "description": "Cmd line English Dictionary",
   "main": "bin/index.js",
   "bin": {
