@@ -1,5 +1,5 @@
 {
-  "name": "endict",
+  "name": "@tharunoptimus/endict",
   "version": "1.0.2",
   "description": "Cmd line English Dictionary",
   "main": "bin/index.js",
@@ -13,7 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/tharunoptimus/endict.git"
   },
-  "keywords": [],
+  "keywords": ["dictionary"],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {

@@ -16,7 +16,7 @@ dict happy
 
 ### Output
 
-![](output.png)
+![](https://raw.githubusercontent.com/tharunoptimus/endict/main/output.png)
 
 ## Dependencies
 - [clear-any-console](https://www.npmjs.com/package/clear-any-console) To clear the console before the output
