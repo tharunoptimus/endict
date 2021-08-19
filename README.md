@@ -11,7 +11,7 @@
 ### Example
 ```js
 // In the terminal
-dict new
+dict happy
 ```
 
 ### Output
