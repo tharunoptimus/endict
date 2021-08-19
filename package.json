@@ -1,5 +1,5 @@
 {
-  "name": "dict",
+  "name": "endict",
   "version": "1.0.0", 
   "description": "Cmd line English Dictionary",
   "main": "bin/index.js",
@@ -9,13 +9,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharunoptimus/endict.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "clear-any-console": "^1.16.2",
     "cli-color": "^2.0.0",
-    "console-clear": "^1.1.1",
     "window-size": "^1.1.1",
     "word-wrap": "^1.2.3",
     "yargs": "^17.1.1"
